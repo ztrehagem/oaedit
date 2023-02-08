@@ -13,9 +13,7 @@
     "url": "https://github.com/ztrehagem/oaedit/issues"
   },
   "homepage": "https://github.com/ztrehagem/oaedit#readme",
-  "publishConfig": {
-    "access": "public"
-  },
+  "private": true,
   "packageManager": "pnpm@7.27.0",
   "scripts": {
     "dev": "vite",
