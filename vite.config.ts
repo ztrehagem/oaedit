@@ -14,4 +14,6 @@ export default defineConfig({
     outDir: path.resolve("dist"),
     emptyOutDir: true,
   },
+
+  assetsInclude: [/\.ya?ml$/],
 });
